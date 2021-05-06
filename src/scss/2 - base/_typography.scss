@@ -1,0 +1,55 @@
+body {
+    color: $base__text-color;
+    font-family: $base__font-stack;
+    font-size: $base__font-size;
+}
+
+
+// Text Transforms
+.uppercase {
+    text-transform: uppercase;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+// Font Weight
+.fw-bold {
+    font-weight: ;
+}
+.fw-normal {
+    font-weight: ;
+}
+
+
+// Text Align
+.ta-left {
+    text-align: left;
+}
+.ta-right {
+    text-align: right;
+}
+.ta-center {
+    text-align: center;
+}
+
+
+
+// Font Style
+$font-family-heading: sans-serif;
+$font-family-body: serif;
+
+// Headings Sizes
+$font-size-h1: 54px;
+$font-size-h2: 36px;
+$font-size-h3: 24px;
+$font-size-h4: 18px;
+$font-size-h5: 16px;
+$font-size-h6: 14px;
+
+// Line Heights
+$line-height: 1.6;
